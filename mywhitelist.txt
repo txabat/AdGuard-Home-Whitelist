@@ -1,0 +1,11 @@
+@@|*.ccma.cat^$important
+@@|api-media.ccma.cat^$important
+@@|dinamics.ccma.cat^$important
+@@|directes-tv-cat.ccma.cat^$important
+@@|statics.ccma.cat^$important
+@@|www.ccma.cat^$important
+@@|smetrics.ccma.cat^$important
+@@|img.ccma.cat^$important
+@@|apptv.ccma.cat^$important
+@@|mp4-down-medium-int.ccma.cat^$important
+@@|audiencies.ccma.cat^$important
