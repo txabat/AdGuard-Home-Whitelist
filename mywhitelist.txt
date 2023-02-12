@@ -9,4 +9,6 @@
 ||apptv.ccma.cat^
 ||mp4-down-medium-int.ccma.cat^
 ||audiencies.ccma.cat^
+||ccma.cat.data.adobedc.net^
+
 
