@@ -10,5 +10,5 @@
 ||mp4-down-medium-int.ccma.cat^
 ||audiencies.ccma.cat^
 ||ccma.cat.data.adobedc.net^
-
-
+||ccma.d1.sc.omtrdc.net^
+||tv3-spain.2cnt.net^
